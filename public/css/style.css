@@ -1,7 +1,12 @@
 body {
   width: 99%;
   height: 900px;
-  background-color: #fc6;
+  background-color: #1122dd;
+}
+
+p {
+  color: white;
+  font-size: 15px;
 }
 
 #top-bar {
@@ -63,6 +68,3 @@ body {
   margin-bottom: 18px;
 }
 
-h1 {
-  color: #f30;
-}

@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jpannewitz/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/jpannewitz/sequelizedBurger#readme"
+  "homepage": "https://github.com/jpannewitz/sequelizedBurger#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
+  }
 }
